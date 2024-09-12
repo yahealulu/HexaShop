@@ -1,0 +1,15 @@
+.catainer{
+    height: 50px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.icon {
+    opacity: .6;
+    cursor: pointer;
+    transition: opacity .3s ease-in
+}
+.icon:hover{
+    opacity: 1;
+}

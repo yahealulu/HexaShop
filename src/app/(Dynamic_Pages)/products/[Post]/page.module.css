@@ -1,0 +1,30 @@
+.header{}
+.info{}
+.title{ margin-bottom: 15 px;
+font-size: 40px;
+}
+.desc{
+    font-size: 18px;
+}
+.imagecontainer{
+    position: relative;
+    margin:25px 0;
+    height: 300px;
+}
+.image{object-fit: cover;
+border-radius: 15px;
+width: auto;
+height: auto;
+}
+
+.postimage{}
+.author{
+    position: absolute;
+    background-color: var(--color-primary);
+    color: #111;
+    padding: 5px 10px;
+    bottom: 0;
+    right: 0;
+}
+.content{}
+.text{}
